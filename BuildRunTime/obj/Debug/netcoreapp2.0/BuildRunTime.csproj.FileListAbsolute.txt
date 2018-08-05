@@ -1,0 +1,10 @@
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\bin\Debug\netcoreapp2.0\BuildRunTime.deps.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\bin\Debug\netcoreapp2.0\BuildRunTime.runtimeconfig.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\bin\Debug\netcoreapp2.0\BuildRunTime.runtimeconfig.dev.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\bin\Debug\netcoreapp2.0\BuildRunTime.dll
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\bin\Debug\netcoreapp2.0\BuildRunTime.pdb
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\obj\Debug\netcoreapp2.0\BuildRunTime.csproj.CoreCompileInputs.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\obj\Debug\netcoreapp2.0\BuildRunTime.AssemblyInfoInputs.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\obj\Debug\netcoreapp2.0\BuildRunTime.AssemblyInfo.cs
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\obj\Debug\netcoreapp2.0\BuildRunTime.dll
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\BuildRunTime\obj\Debug\netcoreapp2.0\BuildRunTime.pdb

@@ -1,0 +1,11 @@
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\bin\Debug\netcoreapp2.0\CallMethod_003.deps.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\bin\Debug\netcoreapp2.0\CallMethod_003.runtimeconfig.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\bin\Debug\netcoreapp2.0\CallMethod_003.runtimeconfig.dev.json
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\bin\Debug\netcoreapp2.0\CallMethod_003.dll
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\bin\Debug\netcoreapp2.0\CallMethod_003.pdb
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.csprojAssemblyReference.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.csproj.CoreCompileInputs.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.AssemblyInfoInputs.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.AssemblyInfo.cs
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.dll
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CallMethod_003\obj\Debug\netcoreapp2.0\CallMethod_003.pdb
