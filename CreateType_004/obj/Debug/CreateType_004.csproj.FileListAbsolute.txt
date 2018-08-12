@@ -1,0 +1,7 @@
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\bin\Debug\CreateType_004.exe.config
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\bin\Debug\CreateType_004.exe
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\bin\Debug\CreateType_004.pdb
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\obj\Debug\CreateType_004.csprojAssemblyReference.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\obj\Debug\CreateType_004.csproj.CoreCompileInputs.cache
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\obj\Debug\CreateType_004.exe
+C:\Users\Husnu\Desktop\Projects\Github\Denemeler\PS_Reflection_001\CreateType_004\obj\Debug\CreateType_004.pdb
